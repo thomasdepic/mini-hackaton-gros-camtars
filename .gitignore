@@ -57,4 +57,4 @@ htmlcov/
 .env.*
 secrets/
 config.json
-./data/
+data/*
