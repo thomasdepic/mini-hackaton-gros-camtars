@@ -2,7 +2,7 @@ import csv
 import random
     
 # Nom du fichier à créer
-filename = "prediction.csv"
+filename = "data/dum_prediction.csv"
 # Création du fichier CSV
 with open(filename, mode="w", newline="") as file:
     writer = csv.writer(file)
